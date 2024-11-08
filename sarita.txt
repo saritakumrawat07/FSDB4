@@ -1,0 +1,8 @@
+1. Direct
+2. GIT
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin link
+git push -u origin master
